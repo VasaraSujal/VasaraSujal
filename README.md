@@ -1,3 +1,8 @@
+<div align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71, #9b00ff); color: white; padding: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Hi+there+%F0%9F%91%8B%2C+I'm+Vasara+Sujal!;🚀+Full-Stack+Developer+%26+Tech+Enthusiast;🌍+Exploring+Modern+Web+Technologies;🔥+Building+Innovative+Projects" alt="Typing Animation" />
+</div>
+
+---
 # 💫 About Me:
 👋 Hi, I'm Vasara Sujal – a passionate Web Developer and Tech Enthusiast who loves building modern, responsive, and user-friendly web applications.<br>🔥 Currently Working On: King Hub – a feature-rich food delivery platform with sleek UI/UX, advanced cart functionalities, and seamless user experiences.<br>🎯 Currently Learning: Advanced React patterns, state management, and optimizing backend performance with Node.js and Express.<br>🌍 Exploring:<br><br>UI Animations – Crafting smooth and interactive experiences using Framer Motion<br>API Integration – Connecting services seamlessly for dynamic data flow and enhanced functionality<br>MongoDB Atlas – Efficient database management with scalable cloud solutions<br>💡 Fun Fact: I can spend hours debugging just to find out it was a missing bracket. 😆<br>🚀 Excited About: Continuously learning new technologies and enhancing my development skills to create impactful digital experiences.
 
