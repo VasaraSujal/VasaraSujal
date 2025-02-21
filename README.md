@@ -27,7 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=VasaraSujal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-## 🎮 Tetris on GitHub Contributions
+# 🎮 Tetris on GitHub Contributions
 
 Watch as Tetris blocks fall daily on my GitHub contribution graph!  
 This is an automated Tetris game built using GitHub Actions.  
@@ -35,6 +35,30 @@ Each commit represents a block in the game, forming the classic Tetris shapes.
 
 🟦 ⬜ ⬛ 🟧 🟥 🟨  
 
---- 
 [Watch it live on my GitHub Contributions Graph!](https://github.com/VasaraSujal)
 
+---
+
+### How It Works
+- The game is played out on my GitHub contributions graph.
+- A GitHub Action runs daily, dropping a Tetris block one row down.
+- If a row is filled, it's cleared just like in classic Tetris!
+- The blocks form different Tetris shapes as they fall over time.
+
+---
+
+### Current Status
+- **Current Block:** ⬛
+- **Score:** 120
+- **Rows Cleared:** 3
+
+---
+
+### Example Output
+![Tetris on GitHub Contributions](./images/tetris-example.png)
+
+---
+
+### Credits
+- Developed by [Your Name](https://github.com/VasaraSujal)
+- Inspired by the classic Tetris game.
