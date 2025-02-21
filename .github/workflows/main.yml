@@ -1,0 +1,32 @@
+name: Tetris Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+
+jobs:
+  play-tetris:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+        
+      - name: Install Dependencies
+        run: npm install
+        
+      - name: Run Tetris Script
+        run: node tetris.js
+        
+      - name: Push Changes
+        run: |
+          git config --global user.name "Tetris Bot"
+          git config --global user.email "you@example.com"
+          git add .
+          git commit -m "Tetris move"
+          git push
