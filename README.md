@@ -26,4 +26,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VasaraSujal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## 🎮 Tetris on GitHub Contributions
+
+Watch as Tetris blocks fall daily on my GitHub contribution graph!  
+This is an automated Tetris game built using GitHub Actions.  
+Each commit represents a block in the game, forming the classic Tetris shapes.  
+
+🟦 ⬜ ⬛ 🟧 🟥 🟨  
+
+--- 
+[Watch it live on my GitHub Contributions Graph!](https://github.com/VasaraSujal)
+
