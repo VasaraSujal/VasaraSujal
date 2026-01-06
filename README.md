@@ -24,7 +24,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 <div align="center">
@@ -32,10 +31,6 @@
 </div>
 
 <br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ### 👨‍💻 Who Am I?
 
@@ -78,12 +73,9 @@ console.log(vasara.displayPassion());
 // Output: "Transforming ideas into elegant, scalable solutions! 🚀"
 ```
 
-</td>
-<td width="45%" valign="top">
+<br>
 
 ### 🎯 What Drives Me
-
-<br>
 
 ```mermaid
 graph TD
@@ -110,22 +102,15 @@ graph TD
 
 ### 🌟 Core Values
 
-<table>
-<tr>
-<td align="center" width="33%">
-💎<br><b>Quality</b><br>
-<sub>Writing clean, maintainable code</sub>
-</td>
-<td align="center" width="33%">
-🚀<br><b>Innovation</b><br>
-<sub>Exploring cutting-edge tech</sub>
-</td>
-<td align="center" width="33%">
-🤝<br><b>Collaboration</b><br>
-<sub>Growing with the community</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 💎 **Quality** | 🚀 **Innovation** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|
+| Writing clean, maintainable code | Exploring cutting-edge tech | Growing with the community |
+
+</div>
+
+<br>
 
 ### 📍 Current Mission
 
@@ -133,9 +118,7 @@ graph TD
 
 **Tech Stack:** `React` `Node.js` `MongoDB` `Express` `TailwindCSS`
 
-</td>
-</tr>
-</table>
+<br>
 
 ### 💫 Quick Facts About Me
 
