@@ -225,70 +225,69 @@ DevOps:
 ---
 
 <div align="center">
-## 💼 More Amazing Projects
 
----
+### 💼 More Amazing Projects
 
-### 🩸 Smart Emergency Blood Network (SEBN)
+</div>
 
-Tech: `Node.js` `Express` `MongoDB` `React` `REST API`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A governed digital network connecting hospitals, blood banks, and NGOs to enable fast, reliable, and auditable blood access during emergency situations. SEBN replaces fragmented manual coordination with automated emergency response.
+### 🩸 Smart Emergency Blood Network
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasaraSujal/Hack_The_Winter)
 
-#### Features:
-* 🔍 Progressive radius-based search with intelligent escalation
-* 🏥 Real-time blood stock visibility across verified institutions
-* 🤝 NGO-backed donor fallback mechanism for rare blood types
-* 📊 Admin-governed trust model with complete audit trails
-* ⚡ Automated emergency request processing with multi-stage escalation
-* 🌐 Single portal for blood discovery and donor coordination
+**Tech:** `Node.js` `Express` `MongoDB` `React` `REST API`
 
-**Tech Highlights:** Stateless API-driven architecture, horizontal scalability, indexed MongoDB queries, role-based access control, automated notifications
+A governed digital network connecting hospitals, blood banks, and NGOs to enable fast, reliable, and auditable blood access during emergency situations. Replaces fragmented manual coordination with automated emergency response system featuring progressive radius-based escalation and multi-stakeholder governance.
 
-**Links:** [GitHub](https://github.com/VasaraSujal/Hack_The_Winter) | [Demo Video](https://drive.google.com/drive/folders/1splVdZoQxYmd0r-DX-u-tqTPUxqSP3fD) | [API Docs](https://documenter.getpostman.com/view/39216723/2sBXVbJuPe)
+**Features:**
+- 📊 Real-time blood stock visibility
+- 🔍 Progressive radius search
+- 🤝 NGO donor fallback
+- ⚡ Automated escalation
+- 🔐 Admin governance
+- 🏥 Multi-stakeholder platform
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🌱 EcoFinds - Sustainable Marketplace
+### 🌱 EcoFinds Marketplace
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JatinRajvani/odooxnmit)
 
-Tech: `React.js` `Tailwind CSS` `Context API` `Lucide Icons`
+**Tech:** `React.js` `Tailwind CSS` `Context API` `Lucide Icons`
 
-A vibrant and trusted platform revolutionizing second-hand goods trading. EcoFinds fosters sustainability by extending product lifecycles and promoting responsible consumption through an intuitive marketplace experience.
+A sustainable second-hand marketplace platform revolutionizing responsible consumption and promoting circular economy practices. Features comprehensive user authentication, product management, and shopping cart functionality with mobile-first responsive design for seamless buying and selling experience.
 
-#### Features:
-* 🔐 Secure user authentication and profile management
-* 📦 Complete product CRUD operations with image support
-* 🔍 Advanced search with category filtering
-* 🛒 Shopping cart and checkout workflow
-* 📱 Mobile-first responsive design
-* 📊 Purchase history and order tracking
-* ♻️ Circular economy promotion
+**Features:**
+- 🔐 Secure authentication
+- 📦 Complete product CRUD
+- 🔍 Advanced search filters
+- 🛒 Shopping cart system
+- 📱 Mobile-first design
+- ♻️ Sustainability focused
 
-**Tech Highlights:** Modern React hooks, Tailwind CSS styling, efficient state management, responsive across all devices, sustainable focus
-
-**Links:** [GitHub](https://github.com/JatinRajvani/odooxnmit) | [Live Demo](https://odooxnmit.vercel.app)
-
----
+</td>
+<td width="33%" valign="top">
 
 ### 🏠 Rental Management System
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JatinRajvani/Rental_management)
 
-Tech: `React` `Node.js` `Express` `MongoDB` `Stripe` `Nodemailer`
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Stripe` `Nodemailer`
 
-A full-stack web application making the rental process seamless and efficient. From browsing products to secure payments and real-time notifications, covering the entire rental lifecycle for vehicles, electronics, tools, and more.
+A full-stack rental platform with secure payments and automated notifications covering the entire rental lifecycle seamlessly. Supports flexible rental durations from hourly to yearly with PCI-compliant Stripe integration, real-time email notifications, and comprehensive admin dashboard for complete business management.
 
-#### Features:
-* 🔍 Smart browse & search with flexible filtering
-* 📅 Multiple rental plans (hourly, daily, weekly, monthly, yearly)
-* 💳 Secure Stripe payment integration
-* 📩 Automated email notifications via Nodemailer
-* 🛠️ Admin dashboard for product and booking management
-* 💰 Dynamic pricing for different durations
-* 🔐 JWT authentication with role-based access
-* 📱 Fully responsive mobile-friendly design
+**Features:**
+- 💳 Secure Stripe payments
+- 📅 Flexible rental plans
+- 📩 Email notifications
+- 🛠️ Admin dashboard
+- 🔐 JWT authentication
+- 📱 Responsive design
 
-**Tech Highlights:** PCI-compliant payments, two-way communication, bcrypt password encryption, MongoDB scalability, Tailwind CSS modern UI
-
-**Links:** [GitHub](https://github.com/JatinRajvani/Rental_management) | [Figma Design](https://www.figma.com/design/DTPG3EnZsGCmoRPZSl4mS2) | [Demo Video](https://youtu.be/7GKUQdv_xFU)
+</td>
+</tr>
+</table>
 
 ---
 
