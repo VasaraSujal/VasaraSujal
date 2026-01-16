@@ -225,69 +225,82 @@ DevOps:
 ---
 
 <div align="center">
+## 💼 More Amazing Projects
 
-### 💼 More Amazing Projects
+---
 
-</div>
+### 🩸 Smart Emergency Blood Network (SEBN)
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Tech: `Node.js` `Express` `MongoDB` `React` `REST API`
 
-### 🎯 Project Alpha
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasaraSujal)
+A governed digital network connecting hospitals, blood banks, and NGOs to enable fast, reliable, and auditable blood access during emergency situations. SEBN replaces fragmented manual coordination with automated emergency response.
 
-**Tech:** `React` `Node.js` `MongoDB` `TailwindCSS`
+#### Features:
+* 🔍 Progressive radius-based search with intelligent escalation
+* 🏥 Real-time blood stock visibility across verified institutions
+* 🤝 NGO-backed donor fallback mechanism for rare blood types
+* 📊 Admin-governed trust model with complete audit trails
+* ⚡ Automated emergency request processing with multi-stage escalation
+* 🌐 Single portal for blood discovery and donor coordination
 
-A comprehensive web application showcasing advanced full-stack development with modern UI/UX patterns and scalable architecture.
+**Tech Highlights:** Stateless API-driven architecture, horizontal scalability, indexed MongoDB queries, role-based access control, automated notifications
 
-**Features:**
-- 🚀 Real-time updates
-- 🔐 Secure authentication
-- 📊 Data visualization
-- 🎨 Modern design
+**Links:** [GitHub](https://github.com/VasaraSujal/Hack_The_Winter) | [Demo Video](https://drive.google.com/drive/folders/1splVdZoQxYmd0r-DX-u-tqTPUxqSP3fD) | [API Docs](https://documenter.getpostman.com/view/39216723/2sBXVbJuPe)
 
-</td>
-<td width="33%" valign="top">
+---
 
-### 🚀 Project Beta
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasaraSujal)
+### 🌱 EcoFinds - Sustainable Marketplace
 
-**Tech:** `TypeScript` `Next.js` `PostgreSQL` `Prisma`
+Tech: `React.js` `Tailwind CSS` `Context API` `Lucide Icons`
 
-An innovative solution built with cutting-edge technologies, focusing on performance optimization and user experience.
+A vibrant and trusted platform revolutionizing second-hand goods trading. EcoFinds fosters sustainability by extending product lifecycles and promoting responsible consumption through an intuitive marketplace experience.
 
-**Features:**
-- ⚡ Lightning fast
-- 🌐 SEO optimized
-- 💾 Database efficiency
-- 🎯 Type safety
+#### Features:
+* 🔐 Secure user authentication and profile management
+* 📦 Complete product CRUD operations with image support
+* 🔍 Advanced search with category filtering
+* 🛒 Shopping cart and checkout workflow
+* 📱 Mobile-first responsive design
+* 📊 Purchase history and order tracking
+* ♻️ Circular economy promotion
 
-</td>
-<td width="33%" valign="top">
+**Tech Highlights:** Modern React hooks, Tailwind CSS styling, efficient state management, responsive across all devices, sustainable focus
 
-### 🔥 Project Gamma
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasaraSujal)
+**Links:** [GitHub](https://github.com/JatinRajvani/odooxnmit) | [Live Demo](https://odooxnmit.vercel.app)
 
-**Tech:** `Vue.js` `Firebase` `Tailwind` `Chart.js`
+---
 
-A data-driven dashboard application with real-time analytics and beautiful data visualizations.
+### 🏠 Rental Management System
 
-**Features:**
-- 📈 Real-time analytics
-- 🎨 Custom charts
-- 🔄 Live sync
-- 📱 Responsive
+Tech: `React` `Node.js` `Express` `MongoDB` `Stripe` `Nodemailer`
 
-</td>
-</tr>
-</table>
+A full-stack web application making the rental process seamless and efficient. From browsing products to secure payments and real-time notifications, covering the entire rental lifecycle for vehicles, electronics, tools, and more.
+
+#### Features:
+* 🔍 Smart browse & search with flexible filtering
+* 📅 Multiple rental plans (hourly, daily, weekly, monthly, yearly)
+* 💳 Secure Stripe payment integration
+* 📩 Automated email notifications via Nodemailer
+* 🛠️ Admin dashboard for product and booking management
+* 💰 Dynamic pricing for different durations
+* 🔐 JWT authentication with role-based access
+* 📱 Fully responsive mobile-friendly design
+
+**Tech Highlights:** PCI-compliant payments, two-way communication, bcrypt password encryption, MongoDB scalability, Tailwind CSS modern UI
+
+**Links:** [GitHub](https://github.com/JatinRajvani/Rental_management) | [Figma Design](https://www.figma.com/design/DTPG3EnZsGCmoRPZSl4mS2) | [Demo Video](https://youtu.be/7GKUQdv_xFU)
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
+**Frontend:** React.js, Vue.js, Tailwind CSS, Context API  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, Postman, Stripe, Nodemailer, JWT  
+**Design:** Figma, Responsive Design, Mobile-First Approach
+
+---
 
 ### Core Technologies
 
