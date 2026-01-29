@@ -422,15 +422,6 @@ A full-stack rental platform with secure payments and automated notifications co
 
 <br/>
 
-<!-- Streak Stats - Full Width -->
-<div align="center">
-  
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VasaraSujal&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=FF6B6B&currStreakLabel=667EEA&card_width=800" />
-
-</div>
-
-<br/>
-
 <!-- Activity Graph - Full Width -->
 <div align="center">
 
