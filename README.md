@@ -1,39 +1,25 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="150" align="center">
+<img src="https://github.com/VasaraSujal.png" width="130" style="border-radius:50%" alt="Sujal Vasara"/>
+</td>
+<td>
 
-<!-- Animated Gradient Wave Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=VASARA%20SUJAL&fontSize=80&fontAlign=50&fontAlignY=38&color=gradient&customColorList=6,11,15,20,24&animation=twinkling&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Architect%20|%20Digital%20Problem%20Solver&descSize=18&descAlignY=60&stroke=667EEA&strokeWidth=2" />
+# Hey, I'm Sujal Vasara 👋
 
-</div>
+**Full-Stack Developer** building fast, clean web apps with the **MERN stack**
 
-<!-- Glowing Tech Banner -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=%E2%9A%A1+Building+Scalable+Web+Experiences;%F0%9F%94%A5+Passionate+About+Clean+Architecture;%F0%9F%9A%80+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+🏆 4th Runner-Up at **Odoo x KSV** — built a [Rental Management System](https://github.com/VasaraSujal/Odoo-X-KSV-Final-Round/) for the final round.
 
-</div>
+<img src="https://img.shields.io/badge/-Full--Time%20%26%20Freelance%20Ready-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/-MERN%20Stack-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/github/followers/VasaraSujal?style=flat-square&label=Followers&color=D14836" />
 
-<br/>
-
-<!-- Neon Status Cards -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢-AVAILABLE_FOR_HIRE-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💼-FREELANCE_READY-667EEA?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🤝-OPEN_TO_COLLABORATE-F093FB?style=for-the-badge&labelColor=0D1117" />
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
-
-<!-- Stats Bar -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/VasaraSujal?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=667EEA" />
-  <img src="https://komarev.com/ghpvc/?username=VasaraSujal&style=for-the-badge&label=PROFILE+VIEWS&color=764BA2" />
-  <img src="https://img.shields.io/github/stars/VasaraSujal?style=for-the-badge&logo=github&label=STARS&labelColor=0D1117&color=F093FB" />
-</div>
-
-<br/>
-
-<!-- Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -690,19 +676,17 @@ graph LR
 
 <br/>
 
-<!-- Footer Banner with Animation -->
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks%20for%20Visiting!&fontSize=28&fontAlign=50&fontAlignY=35&color=gradient&customColorList=6,11,15,20,24&animation=twinkling&desc=⭐%20Star%20repos%20•%20🍴%20Fork%20to%20contribute%20•%20💬%20Reach%20out%20anytime&descSize=14&descAlignY=55&section=footer" width="100%"/>
-</div>
 
-<!-- Signature -->
-<div align="center">
-  
-**Made with 💜 by [Vasara Sujal](https://github.com/VasaraSujal)**
+### Thanks for stopping by 👋
 
-<sub>🌟 "Code is poetry written in logic" 🌟</sub>
+⭐ Star a repo · 🍴 Fork to contribute · 💬 Reach out anytime
 
-**© 2024 Vasara Sujal | Built with passion and countless cups of coffee ☕**
+**Vasara Sujal** · Built with 💜 and countless cups of coffee ☕
+<br/>
+<sub>© 2026 · "Code is poetry written in logic"</sub>
 
 </div>
 
